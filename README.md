@@ -10,7 +10,6 @@ Anything but C/C++ 🤢. I like learning new languages and tools, I can easily m
 - Godot - Prototyping with 2D/3D graphics and GUI.
 - Python - Quick scripts for building things asap.
 - C# - Contributing to community projects. And for long term projects.
-- Ghidra - Reverse Engineering executables.
 - ImHex - My Hex editor of choice. Check out some [pattern scripts](https://ssx.computernewb.com/wiki/Formats/Common) I helped create.
 - F#, Rust, and Gameboy Assembly - Experimental.
 
