@@ -10,7 +10,7 @@ Anything but C/C++ 🤢. I like learning new languages and tools, I can easily m
 - Godot - Prototyping with 2D/3D graphics and GUI.
 - Python - Quick scripts for building things asap.
 - C# - Contributing to community projects. And for long term projects.
-- ImHex Pattern - For turning binares into a readable structure. Check out some [pattern scripts](https://ssx.computernewb.com/wiki/Formats) I helped create.
+- ImHex Pattern - For turning binaries into a readable structure. Check out some [pattern scripts](https://ssx.computernewb.com/wiki/Formats) I helped create.
 - F#, Rust, and Gameboy Assembly - Experimental.
 
 ### What am I actively working on?
