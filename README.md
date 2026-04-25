@@ -5,8 +5,8 @@ I'm a hobbyist programmer who codes for the love of the game. I program anything
 ### Language of choice?
 Anything but C/C++ 🤢. I like learning new languages and tools, I can easily move between them. I use them depending on my goal. The following is a list in no particular order:
 - Odin - Low level programming for long term projects.
-- SDL3 - My graphics API of choice for performance critical games.
-- Raylib - My framework of choice for simple game engines.
+- SDL3 - My graphics API of choice for performance critical engines.
+- Raylib - My framework of choice for simple engines.
 - Godot - Prototyping with 2D/3D graphics and GUI.
 - Python - Quick scripts for building things asap.
 - C# - Contributing to community projects. And for long term projects.
