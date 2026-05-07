@@ -3,7 +3,7 @@
 I'm a hobbyist programmer who codes for the love of the game. I program anything that peeks my interest, mostly game development and reverse engineering. I have no interest in network programming.
 
 ### Language of choice?
-Anything but C/C++ 🤢. I like learning new languages and tools, I can easily move between them. I use them depending on my goal. The following is a list in no particular order:
+Anything but C++ 🤢. I like learning new languages and tools, I can easily move between them. I use them depending on my goal. The following is a list in no particular order:
 - Odin - Low level programming for long term projects.
 - SDL3 - My graphics API of choice for performance critical engines.
 - Raylib - My framework of choice for simple engines.
@@ -11,7 +11,7 @@ Anything but C/C++ 🤢. I like learning new languages and tools, I can easily m
 - Python - Quick scripts for building things asap.
 - C# - Contributing to community projects. And for long term projects.
 - ImHex Pattern - For turning binaries into a readable structure. Check out some [pattern scripts](https://ssx.computernewb.com/wiki/Formats) I helped create.
-- F#, Rust, and Gameboy Assembly - Experimental.
+- C, F#, Rust, and Gameboy Assembly - Experimental.
 
 ### What am I actively working on?
 My Magnum Opus is the [HardTime port](https://github.com/Erickson400/Hard-Time), translating the old fella into a modern graphics API, finally making it run natively to scratch my nostalgic itch, hopefully finished in 2 years. 
